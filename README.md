@@ -1,6 +1,6 @@
 # 📊 Stock Portfolio Performance Dashboard | Power BI
 
-![Dashboard Preview](Stock%20Portfolio%20Dashboard.png)
+![Dashboard Preview](https://github.com/mohdfaij-data/Power-BI-Stock-Portfolio-Dashboard/blob/main/Stock%20Portfolio%20Dashboard.png)
 
 ---
 
