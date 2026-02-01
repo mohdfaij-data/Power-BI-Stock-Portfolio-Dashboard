@@ -110,14 +110,14 @@ DIVIDE([Net Profit], [Total Investment], 0)
 
 ---
 
-📂 **Repository Contents**
+📂 Repository Contents
 📌 Dashboard.pbix — Power BI report file
 🖼 dashboard.png — Dashboard preview image
 📊 dataset.xlsx — Portfolio dataset
 📘 README.md — Project documentation
 
 
-🔮 **Future Enhancements**
+🔮 Future Enhancements
 Planned improvements for upcoming versions:
 ⭐ Top Gainers vs Top Losers Table
 📅 Monthly Portfolio Performance Tracking
@@ -125,7 +125,7 @@ Planned improvements for upcoming versions:
 ⚠️ Risk Metrics (Volatility, Sharpe Ratio)
 
 
-👤 **Author**
+👤 Author
 Mohd Faij
 Aspiring Data Analyst | Power BI & Finance Analytics
 📌 GitHub: https://github.com/mohdfaij-data
